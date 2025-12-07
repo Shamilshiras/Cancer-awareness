@@ -1,0 +1,33 @@
+.navbar-pink {
+    background-color: #bd2c55;
+}
+
+.hero {
+  background: url('https://images.squarespace-cdn.com/content/v1/64011f10da897a3162ea8900/f9f658bb-f0c9-48c3-8fd7-c55044b95164/breast-cancer-awareness-2022-11-14-01-58-45-utc.jpg') center/cover no-repeat;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.6);
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+}
+
+.bg-contact {
+        background-color: #fff5f7;
+}
+
+.footer-pink {
+    background-color: #bd2c55;
+}
+
